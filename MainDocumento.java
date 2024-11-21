@@ -1,4 +1,4 @@
-public class Main {
+public class MainDocumento {
     public static void main(String[] args) {
         
 GestorDocumento gestorDocumento = new GestorDocumento();
